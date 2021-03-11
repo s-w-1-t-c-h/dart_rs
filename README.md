@@ -1,5 +1,5 @@
 # dart_rs
-Basic Dart reverse shell code. Pretty self explanatory. 
+Basic Dart reverse shell based on [this one](https://github.com/Potato-Industries/dartrs) by [Potato-Industries](https://github.com/Potato-Industries). Pretty self explanatory. 
 
 You’ll need Windows. I used a Windows 7 64-bit VM. From there:
 
