@@ -9,7 +9,7 @@ You’ll need Windows. I used a Windows 7 64-bit VM. From there:
 
 3. Grab rs.dart from this repo
 
-4. Modify the host and port to a value that suitable to you
+4. Modify the host and port to a value that suits you
 
 5. Open a command prompt and compile the binary with dart2native:
 
@@ -20,4 +20,6 @@ You’ll need Windows. I used a Windows 7 64-bit VM. From there:
 ![image](https://user-images.githubusercontent.com/6980812/110584241-9fcf5f80-81ba-11eb-89c9-a250798098fe.png)
 
 7. Transfer the binary to the target system, set up a listener on the box you configured and give it a crack.
+
+It's not awesome right now - lots of cleanup to do (for example, every command sent spawns a new powershell process...), will get to that at some point.
 
