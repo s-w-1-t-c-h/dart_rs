@@ -9,7 +9,7 @@ You’ll need Windows. I used a Windows 10 64-bit VM. From there:
 
 1. Install the Dart SDK from dart.dev via the instructions (using Chocolately is easiest)
 
-2. OPTIONAL: Install Visual Studio Community to get ‘editbin.exe’ so you can modify your Dart shell binary to run silently. Install the “Desktop Development with C++” package when prompted.
+2. OPTIONAL: Install Visual Studio Community to get ‘editbin.exe’ so you can modify your Dart shell binary to run silently. Check out the advice [here](https://stackoverflow.com/questions/57207503/dumpbin-exe-editbin-exe-package-needed-in-visual-studio-2019) for how to get editbin.exe.
 
 3. Grab rs.dart from this repo
 
@@ -21,7 +21,8 @@ You’ll need Windows. I used a Windows 10 64-bit VM. From there:
 
 6. To stop the binary executing with a persistent black command window in the foreground, use editbin.exe from your Visual Studio install to hide it (optional):
 
-![image](https://github.com/s-w-1-t-c-h/dart_rs/assets/6980812/522e0c28-6163-4754-ab09-8395bd34c89b)
+![image](https://github.com/s-w-1-t-c-h/dart_rs/assets/6980812/c9eae6c3-0276-4a3c-86c2-47cf42812c41)
+
 
 7. Transfer the binary to the target system, set up a listener on the box you configured and give it a crack.
 
