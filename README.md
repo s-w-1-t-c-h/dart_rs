@@ -1,15 +1,11 @@
 # dart_rs v1.1
-Updated dart reverse shell based on [this one](https://github.com/Potato-Industries/dartrs) by [Potato-Industries](https://github.com/Potato-Industries). Pretty self explanatory. 
+Updated and (currently) decent basic dart reverse shell based on [this one](https://github.com/Potato-Industries/dartrs) by [Potato-Industries](https://github.com/Potato-Industries). Pretty self explanatory. 
 
-# Updated and (currently) fabulous
-
-Code has been rewritten to support the latest version of Dart, error handling improved, process management problems fixed, etc.
-
-Avoids quite a few AV products, including BitDefender.
+Code has been rewritten to support the latest version of Dart, error handling improved, process management problems fixed, etc. Avoids quite a few endpoint AV products, including BitDefender.
 
 # How to compile
 
-You’ll need Windows. I used a Windows 10 7 64-bit VM. From there:
+You’ll need Windows. I used a Windows 10 64-bit VM. From there:
 
 1. Install the Dart SDK from dart.dev via the instructions (using Chocolately is easiest)
 
