@@ -21,7 +21,7 @@ You’ll need Windows. I used a Windows 10 64-bit VM. From there:
 
 6. To stop the binary executing with a persistent black command window in the foreground, use editbin.exe from your Visual Studio install to hide it (optional):
 
-![image](https://user-images.githubusercontent.com/6980812/110584241-9fcf5f80-81ba-11eb-89c9-a250798098fe.png)
+![image](https://github.com/s-w-1-t-c-h/dart_rs/assets/6980812/522e0c28-6163-4754-ab09-8395bd34c89b)
 
 7. Transfer the binary to the target system, set up a listener on the box you configured and give it a crack.
 
