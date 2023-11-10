@@ -1,7 +1,7 @@
-# dart_rs v1.1
-Updated and (currently) working basic dart reverse shell based on [this one](https://github.com/Potato-Industries/dartrs) by [Potato-Industries](https://github.com/Potato-Industries). Pretty self explanatory. Only took two and a half years to find the time to come back to this... 
+# Dart reverse shell v1.1
+Updated and (currently) working basic dart reverse shell for Windows (Powershell) based on [this one](https://github.com/Potato-Industries/dartrs) by [Potato-Industries](https://github.com/Potato-Industries). Pretty self explanatory. Only took two and a half years to find the time to come back to this... 
 
-Code has been rewritten to support the latest version of Dart, error handling improved, process management problems fixed, etc. Avoids [quite a few endpoint AV products](https://virusscan.jotti.org/en-US/filescanjob/cugw4ajdkh), including BitDefender even though Jotti says otherwise (tested on a fully updated release of BitDefender Total Security as of 2023-11-10).
+Code has been rewritten to support the latest version of Dart, error handling improved, process management problems fixed, etc. Avoids [quite a few endpoint AV products](https://virusscan.jotti.org/en-US/filescanjob/cugw4ajdkh), including BitDefender even though Jotti says otherwise (tested on a fully updated release of BitDefender Total Security as of 2023-11-10). Tested and working on Windows 10/11.
 
 # How to compile
 
