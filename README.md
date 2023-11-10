@@ -17,7 +17,9 @@ You’ll need a platform that supports the Dart SDK. I used a Windows 10 64-bit 
 
 ![image](https://github.com/s-w-1-t-c-h/dart_rs/assets/6980812/d081b941-013e-4179-8bc0-d625d1cd0942)
 
-5. Transfer the binary to the target system, set up a listener on the box you configured and give it a crack.
+5. Transfer the binary to the target system, set up a listener on the box you configured and give it a crack:
+
+![image](https://github.com/s-w-1-t-c-h/dart_rs/assets/6980812/e4398b83-6e28-41ff-acbc-227649a5d698)
 
 6. OPTIONAL: Install Visual Studio Community to get ‘editbin.exe’ so you can modify your Dart shell binary to run silently. Check out the advice [here](https://stackoverflow.com/questions/57207503/dumpbin-exe-editbin-exe-package-needed-in-visual-studio-2019) for how to get editbin.exe. Use editbin.exe to stop the binary executing with a persistent black command window in the foreground:
 
