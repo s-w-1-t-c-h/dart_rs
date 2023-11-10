@@ -5,11 +5,11 @@ Code has been rewritten to support the latest version of Dart, error handling im
 
 # How to compile
 
-You’ll need Windows. I used a Windows 10 64-bit VM. From there:
+You’ll need a platform that supports the Dart SDK. I used a Windows 10 64-bit VM for the below steps. From there:
 
 1. Install the Dart SDK from dart.dev via the instructions (using Chocolately is easiest)
 
-2. Grab rs.dart from this repo
+2. Grab dart.rs from this repo
 
 3. Modify the host and port to a value that suits you
 
